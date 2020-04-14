@@ -134,3 +134,24 @@ html,
 body {
   height: 100%;
 }
+header h1 {
+  text-align: center;
+}
+.nav {
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+.intro {
+  color: darkblue;
+  margin: 20px 0;
+}
+.skills li {
+  color: green;
+  margin: 10px;
+  padding: 5 px;
+}
+.work {
+  color: crimson;
+  margin: 15px 0;
+}
